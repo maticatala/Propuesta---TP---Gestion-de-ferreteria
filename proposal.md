@@ -29,8 +29,6 @@ gestión de ventas y control de productos:
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|
