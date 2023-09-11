@@ -21,7 +21,8 @@ El sistema a desarrollar tiene como objetivo principal apoyar la gestión de ven
 
 
 ### Modelo
-![EF1 8_Ferretería drawio (1)](https://github.com/maticatala/Propuesta---TP---Gestion-de-ferreteria/assets/117945432/fb911fb9-13fe-4857-8142-26eafcaf2301)
+![8c4ca3bf-f762-4d11-a230-07820584717c](https://github.com/maticatala/Propuesta--TP--Ecommerce3D/assets/117945432/aef55e09-28f1-402f-ad6a-0b26fca6322f)
+
 
 ## Alcance Funcional 
 
